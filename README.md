@@ -6,4 +6,4 @@ The inventory of trees in the city is a key step in the management of urban plan
 
 # Contributing
 
-More in CONTRIBUTING.md
+More in [CONTRIBUTING](CONTRIBUTING.md)
